@@ -16,7 +16,7 @@ app.use(morgan('dev'));
 
 // MongoDB Connection
 mongoose.connect(process.env.MONGODB_URI)
-    .then(() => console.log('Connected to MongoDB'))
+    .then(() => console.log('Connected to MongoDB 🚀'))
     .catch(err => console.error('MongoDB connection error:', err));
 
 // Use the incidents router
@@ -33,5 +33,5 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server listening on port ${port}`);
+    console.log(`Server listening on port 🐇 ${port}`);
 });
