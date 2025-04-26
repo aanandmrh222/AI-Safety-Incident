@@ -1,0 +1,59 @@
+# Node.js Modules
+node_modules/
+
+# Environment Variables
+.env
+
+# Debug and Log Files
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE Specific Files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency manager error
+npm-shrinkwrap.json
+yarn.lock
+package-lock.json
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# OS generated files
+ehthumbs.db
+[Dd]esktop.ini
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Compiled Files (JavaScript or TypeScript)
+dist/
+build/
+out/
+
+# Temporary files
+tmp/
+temp/
+
+# Editor backup files
+*~
+\#*
+
+# Log files
+logs
+
+# Password file
+pass.txt
+
+# Other
+.history
