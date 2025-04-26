@@ -19,7 +19,7 @@ This project implements a simple RESTful API service for logging and managing hy
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/aanandmrh222/AI-Safety-Incident
+    git clone https://github.com/aanandmrh222/AI-Safety-Incident.git
     cd AI-Safety-Incident
     ```
 
